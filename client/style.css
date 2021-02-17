@@ -1,0 +1,14 @@
+body {
+    background-color: turquoise;
+}
+
+.container {
+    display: flex;
+    background-color: orange;
+}
+
+.card {
+    margin: 5px;
+    padding: 20px;
+    border: 5px solid whitesmoke
+}
